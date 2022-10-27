@@ -13,8 +13,12 @@ The third workflow is "TestDevices"
 ### How does it work?
 The functions in UIPATH operate to read data from the excel document, and the data gets stored in a datatable on UIPATh. The data is the transferred to the web application through a series of different functions. Once the data is on the web app, UIPath runs more functions to test whether the data has been successfully created and read on the web appplication. 
 
-### Requirements:
-UIPath Automation
-Git
-Git hub
-Browser(preferably Chrome)
+##### Requirements:
+###### * UIPath Automation
+###### * GIT
+###### * Github
+###### * Browser(preferably Chrome)
+
+
+
+
