@@ -19,6 +19,9 @@ The functions in UIPATH operate to read data from the excel document, and the da
 ###### * Github
 ###### * Browser(preferably Chrome)
 
+### License
+MIT License
 
-
+# NOTE!
+There is a project attached to this git repo under the projects tab. That project consists of information about project 4 on how it was iteratively updated throughtout. 
 
